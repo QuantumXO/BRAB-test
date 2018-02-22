@@ -162,6 +162,6 @@
 <!--  JQuery  -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
-<script src="js/main.js"></script>
+<script src="js/main.min.js"></script>
 </body>
 </html>
